@@ -1,0 +1,20 @@
+# This file should list any files or directories you want included with the
+# T2 bundling and deployment process. This is handy for including
+# non-JavaScript assets, like HTML, CSS, and images, for use within your project.
+# .tesselinclude works the same as .npminclude
+# You DO NOT need to list node_modules or package.json
+# For more information, visit: https://tessel.io/docs/cli#usage
+
+yoda-mudhole.mp3
+baby.mp3
+GetToDaChoppa.mp3
+put-that-cookie-down.mp3
+over9000.mp3
+YouSonOfABitch.mp3
+NotATumah.mp3
+Stop_Whining.mp3
+DoItNow3.mp3
+DoItNow5.mp3
+DoItNowKillMe.mp3
+IAmThePartyPoopah.mp3
+sob.mp3
